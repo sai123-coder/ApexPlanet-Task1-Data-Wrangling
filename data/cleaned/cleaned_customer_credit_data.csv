@@ -1,0 +1,501 @@
+Customer_ID,Age,Income,Credit_Score,Credit_Utilization,Missed_Payments,Delinquent_Account,Loan_Balance,Debt_to_Income_Ratio,Employment_Status,Account_Tenure,Credit_Card_Type,Location,Month_1,Month_2,Month_3,Month_4,Month_5,Month_6,Age_Group
+cust0001,56,165580.0,398.0,0.390501929,3,0,16310.0,0.317396115,emp,18,student,los angeles,late,late,missed,late,missed,late,Senior
+cust0002,69,100999.0,493.0,0.312444033,6,1,17401.0,0.196092643,self-employed,0,standard,phoenix,missed,missed,late,missed,on-time,on-time,Retired
+cust0003,46,188416.0,500.0,0.359930239,0,0,13761.0,0.30165494,self-employed,1,platinum,chicago,missed,late,late,on-time,missed,late,Mid Career
+cust0004,32,101672.0,413.0,0.371400355,3,0,88778.0,0.264794439,unemployed,15,platinum,phoenix,late,missed,late,missed,late,late,Early Career
+cust0005,60,38524.0,487.0,0.234715863,2,0,13316.0,0.510583483,self-employed,11,standard,phoenix,missed,on-time,missed,late,late,late,Senior
+cust0006,25,84042.0,700.0,0.65054043,6,0,48361.0,0.260687881,unemployed,7,gold,new york,on-time,late,missed,missed,missed,late,Young
+cust0007,38,35056.0,354.0,0.390580941,3,0,4638.0,0.484265137,employed,17,platinum,new york,on-time,missed,missed,late,missed,late,Mid Career
+cust0008,56,123215.0,415.0,0.532714667,5,0,55776.0,0.358695229,emp,1,student,new york,on-time,on-time,on-time,late,missed,late,Senior
+cust0009,36,66991.0,405.0,0.413034848,5,1,45776.0,0.219854103,employed,12,student,phoenix,on-time,on-time,on-time,missed,late,on-time,Mid Career
+cust0010,40,34870.0,679.0,0.361823918,4,0,93922.0,0.333081093,emp,5,business,los angeles,on-time,missed,missed,on-time,missed,missed,Mid Career
+cust0011,28,42532.0,340.0,0.834455847,4,0,82909.0,0.269559025,unemployed,5,student,chicago,on-time,late,missed,missed,on-time,late,Early Career
+cust0012,28,70479.0,679.0,0.684586436,3,0,75777.0,0.324215749,unemployed,8,business,chicago,on-time,missed,missed,late,on-time,late,Early Career
+cust0013,41,56975.0,320.0,0.12635992,0,0,15171.0,0.228610901,emp,15,standard,los angeles,late,late,missed,late,on-time,on-time,Mid Career
+cust0014,70,117023.0,528.0,0.10517251,5,0,95136.0,0.469017763,retired,10,standard,los angeles,on-time,missed,missed,missed,on-time,on-time,Retired
+cust0015,53,143148.0,617.0,0.708521767,0,0,2593.0,0.392539809,unemployed,6,standard,chicago,late,missed,late,late,late,late,Senior
+cust0016,57,159356.0,601.0,0.396029322,0,0,1514.0,0.303178157,self-employed,9,gold,houston,missed,on-time,late,missed,missed,late,Senior
+cust0017,41,146484.0,543.0,0.170183533,3,0,74039.0,0.472911477,self-employed,9,gold,new york,late,missed,on-time,missed,missed,late,Mid Career
+cust0018,20,183152.0,823.0,0.709147027,0,1,28018.0,0.307427924,unemployed,19,business,new york,on-time,on-time,late,late,on-time,late,Young
+cust0019,39,81040.0,831.0,0.53382481,5,0,16034.0,0.409762496,unemployed,17,student,chicago,missed,on-time,on-time,late,on-time,missed,Mid Career
+cust0020,70,181319.0,486.0,0.550314217,2,0,2420.0,0.303830059,retired,19,student,los angeles,late,missed,late,late,late,missed,Retired
+cust0021,19,199402.0,783.0,0.661907854,4,0,43942.0,0.339388759,self-employed,8,standard,houston,late,late,on-time,on-time,on-time,late,Young
+cust0022,41,40351.0,690.0,0.238004568,2,1,2200.0,0.291856122,unemployed,14,platinum,chicago,missed,missed,on-time,on-time,late,missed,Mid Career
+cust0023,61,154487.0,321.0,0.173699836,0,0,81757.0,0.309530135,unemployed,3,gold,new york,late,on-time,on-time,on-time,late,on-time,Senior
+cust0024,47,108468.0,538.0,0.816190859,2,1,45776.0,0.317053186,retired,7,gold,phoenix,late,late,late,on-time,late,late,Mid Career
+cust0025,55,41646.0,847.0,0.212566648,5,0,28018.0,0.233026817,retired,8,standard,los angeles,on-time,missed,missed,missed,late,late,Senior
+cust0026,19,193998.0,515.0,0.255552441,5,0,45776.0,0.259893133,emp,12,gold,phoenix,late,missed,on-time,late,missed,on-time,Young
+cust0027,38,89740.0,789.0,0.295512924,0,0,89660.0,0.278324498,retired,8,standard,chicago,missed,on-time,missed,missed,missed,on-time,Mid Career
+cust0028,50,136790.0,525.0,0.915989185,3,0,43870.0,0.322971102,employed,3,business,new york,missed,on-time,late,late,missed,on-time,Mid Career
+cust0029,29,86726.0,588.0,0.59867666,2,0,45776.0,0.296942098,self-employed,16,student,houston,late,late,missed,on-time,late,on-time,Early Career
+cust0030,39,88523.0,523.0,0.693081595,3,0,29561.0,0.417303253,emp,15,platinum,phoenix,late,on-time,on-time,on-time,late,on-time,Mid Career
+cust0031,61,72458.0,374.0,0.539233509,3,0,60530.0,0.384711832,employed,14,student,houston,on-time,missed,late,missed,on-time,missed,Senior
+cust0032,42,60106.0,385.0,0.379622558,1,0,46663.0,0.280367244,unemployed,2,student,new york,on-time,late,late,on-time,on-time,missed,Mid Career
+cust0033,66,106362.0,806.0,0.626258257,0,1,11308.0,0.43817839,unemployed,19,business,phoenix,late,late,late,late,late,on-time,Retired
+cust0034,44,99076.0,440.0,0.188676806,4,0,99005.0,0.487302062,emp,4,gold,houston,missed,late,late,missed,on-time,missed,Mid Career
+cust0035,59,69693.0,316.0,0.28094331,5,1,60278.0,0.1,retired,4,platinum,houston,on-time,missed,late,late,on-time,late,Senior
+cust0036,45,137402.0,464.0,0.646595036,5,0,65119.0,0.393229009,unemployed,19,gold,phoenix,missed,missed,missed,on-time,on-time,on-time,Mid Career
+cust0037,33,53756.0,521.0,0.228548954,0,0,36029.0,0.23070158,employed,14,student,new york,late,missed,missed,on-time,on-time,missed,Early Career
+cust0038,32,181319.0,467.0,0.462183706,6,0,62010.0,0.380074802,emp,17,standard,houston,missed,on-time,on-time,on-time,missed,on-time,Early Career
+cust0039,64,183152.0,823.0,0.471297531,6,0,87164.0,0.423823794,employed,14,student,chicago,late,on-time,late,missed,missed,on-time,Senior
+cust0040,68,97750.0,352.0,0.394267599,6,0,91432.0,0.212300741,emp,1,gold,phoenix,on-time,late,late,on-time,on-time,on-time,Retired
+cust0041,61,107658.0,372.0,0.109776305,4,0,44454.0,0.11476729,self-employed,12,student,los angeles,late,missed,late,on-time,late,late,Senior
+cust0042,72,81617.0,359.0,0.374214222,5,0,11564.0,0.383543409,retired,3,standard,los angeles,late,on-time,late,on-time,missed,missed,Retired
+cust0043,69,107658.0,792.0,0.335006325,0,1,11155.0,0.313540248,retired,9,business,new york,on-time,late,late,late,missed,missed,Retired
+cust0044,74,66991.0,601.0,0.532287973,5,0,31198.0,0.133156125,emp,12,gold,chicago,on-time,late,on-time,missed,missed,late,Retired
+cust0045,20,106267.0,751.0,0.522098108,3,0,86447.0,0.552956451,unemployed,9,student,houston,on-time,missed,on-time,late,on-time,late,Young
+cust0046,54,59238.0,401.0,0.575592292,2,1,45776.0,0.362441941,unemployed,8,gold,los angeles,on-time,late,missed,missed,late,on-time,Senior
+cust0047,68,153311.0,326.0,0.364802745,2,0,5626.0,0.367010004,employed,7,business,new york,missed,missed,on-time,late,missed,late,Retired
+cust0048,24,146800.0,637.0,0.60455559,5,0,2687.0,0.436581775,employed,2,student,chicago,on-time,late,on-time,missed,on-time,on-time,Young
+cust0049,38,97750.0,691.0,0.188798653,1,0,63375.0,0.241917605,retired,15,student,chicago,late,on-time,on-time,on-time,missed,late,Mid Career
+cust0050,26,118033.0,469.0,0.135619053,4,0,92865.0,0.313045411,employed,13,gold,new york,late,missed,missed,late,on-time,missed,Early Career
+cust0051,56,169865.0,336.0,0.05,6,0,92183.0,0.168067809,employed,8,gold,new york,missed,late,on-time,late,late,on-time,Senior
+cust0052,35,109074.0,383.0,0.400140552,4,0,45776.0,0.239205155,employed,10,standard,houston,late,missed,late,late,missed,on-time,Early Career
+cust0053,21,185806.0,823.0,0.349340355,4,0,45776.0,0.338566,employed,2,business,new york,missed,missed,late,on-time,on-time,missed,Young
+cust0054,42,194819.0,339.0,0.657863122,3,0,29427.0,0.133471533,employed,4,standard,houston,late,missed,on-time,on-time,on-time,missed,Mid Career
+cust0055,31,90353.0,711.0,0.370267483,4,0,69342.0,0.236371045,retired,9,student,houston,late,on-time,on-time,on-time,late,late,Early Career
+cust0056,67,198401.0,715.0,0.55467527,2,0,17401.0,0.207206604,retired,12,gold,phoenix,on-time,late,late,on-time,late,late,Retired
+cust0057,26,76629.0,673.0,0.662659315,3,0,35372.0,0.314209225,employed,3,student,chicago,on-time,late,late,late,missed,on-time,Early Career
+cust0058,43,107193.0,843.0,0.362736185,0,0,70793.0,0.357470126,emp,12,student,chicago,missed,missed,missed,missed,late,on-time,Mid Career
+cust0059,70,81040.0,401.0,0.559610442,4,0,63443.0,0.37421528,retired,11,platinum,chicago,late,missed,missed,missed,late,missed,Retired
+cust0060,19,107658.0,538.0,0.70038551,4,0,37445.0,0.399881664,emp,4,platinum,phoenix,on-time,late,missed,late,missed,on-time,Young
+cust0061,37,140899.0,826.0,0.252367445,0,1,64950.0,0.437211685,unemployed,9,student,houston,on-time,missed,late,missed,missed,on-time,Mid Career
+cust0062,45,184160.0,475.0,0.504970468,4,0,49893.0,0.360724545,employed,8,gold,houston,late,missed,on-time,on-time,missed,missed,Mid Career
+cust0063,64,155507.0,801.0,0.363593123,0,0,81202.0,0.48873359,retired,19,student,new york,missed,late,late,on-time,late,on-time,Senior
+cust0064,24,109074.0,739.0,0.265102024,3,0,54247.0,0.311950252,self-employed,6,platinum,phoenix,missed,missed,missed,missed,on-time,missed,Young
+cust0065,61,43251.0,773.0,0.192709652,2,0,86488.0,0.282667885,unemployed,1,gold,new york,on-time,missed,late,on-time,on-time,late,Senior
+cust0066,25,117634.0,815.0,0.261870286,0,0,95267.0,0.360730736,emp,6,student,phoenix,missed,on-time,missed,missed,late,missed,Young
+cust0067,64,107658.0,612.0,0.512005801,1,0,99005.0,0.278358883,retired,7,business,new york,on-time,late,on-time,missed,on-time,on-time,Senior
+cust0068,52,172164.0,600.0,0.177831109,0,0,7468.0,0.485256473,employed,6,business,los angeles,missed,missed,on-time,late,late,missed,Senior
+cust0069,31,107658.0,796.0,0.389854595,4,0,85026.0,0.413098347,employed,13,student,chicago,missed,late,missed,late,late,missed,Early Career
+cust0070,34,81617.0,822.0,0.662638881,6,0,24917.0,0.375027814,self-employed,18,gold,chicago,late,missed,on-time,on-time,on-time,missed,Early Career
+cust0071,53,196415.0,797.0,0.589802193,6,1,77348.0,0.313141934,emp,4,student,houston,on-time,on-time,missed,missed,on-time,late,Senior
+cust0072,67,159572.0,371.0,0.393898475,3,0,16310.0,0.259252283,unemployed,17,student,los angeles,missed,on-time,on-time,missed,on-time,on-time,Retired
+cust0073,57,136465.0,567.0,0.837938083,5,0,95303.0,0.3701325,employed,19,platinum,chicago,late,late,missed,on-time,on-time,missed,Senior
+cust0074,21,36447.0,448.0,0.878607283,3,0,13355.0,0.187290255,self-employed,11,business,houston,on-time,on-time,missed,late,on-time,missed,Young
+cust0075,19,159188.0,835.0,0.505224486,5,0,96507.0,0.453436353,employed,16,platinum,los angeles,on-time,on-time,on-time,missed,on-time,on-time,Young
+cust0076,23,181267.0,542.0,0.05,6,0,24851.0,0.282236329,retired,12,platinum,chicago,missed,missed,late,missed,late,on-time,Young
+cust0077,71,107658.0,611.0,0.677289639,6,0,23908.0,0.330510673,employed,1,student,new york,late,missed,late,on-time,missed,missed,Retired
+cust0078,59,59425.0,577.0,0.05,0,0,65548.0,0.209039892,unemployed,12,platinum,phoenix,missed,on-time,on-time,on-time,on-time,on-time,Senior
+cust0079,21,97844.0,728.0,0.795229222,2,0,82909.0,0.372298626,employed,6,business,los angeles,on-time,missed,on-time,late,on-time,late,Young
+cust0080,71,115235.0,427.0,0.71671698,1,0,31454.0,0.254625839,emp,9,platinum,houston,missed,on-time,late,on-time,on-time,late,Retired
+cust0081,46,189358.0,824.0,0.854842501,3,0,4617.0,0.364922879,retired,5,business,los angeles,missed,late,late,on-time,late,on-time,Mid Career
+cust0082,35,88847.0,686.0,0.552053112,4,0,92329.0,0.375739347,retired,2,platinum,houston,late,late,missed,on-time,late,late,Early Career
+cust0083,43,172504.0,835.0,0.427722847,5,0,28298.0,0.235236789,unemployed,2,business,los angeles,on-time,missed,late,late,missed,missed,Mid Career
+cust0084,61,115235.0,820.0,0.409979773,4,0,10942.0,0.187647088,retired,17,platinum,houston,late,late,missed,late,late,late,Senior
+cust0085,51,186230.0,336.0,0.390747966,2,0,51440.0,0.453189992,emp,10,platinum,chicago,on-time,missed,late,on-time,late,on-time,Senior
+cust0086,27,80215.0,572.0,0.696213731,5,0,12707.0,0.280770097,employed,19,gold,new york,missed,missed,on-time,late,missed,on-time,Early Career
+cust0087,53,141131.0,601.0,0.642454298,3,1,92865.0,0.322484882,unemployed,4,business,chicago,on-time,missed,on-time,late,on-time,missed,Senior
+cust0088,31,188416.0,680.0,0.524045127,0,0,35598.0,0.348546452,retired,18,business,new york,on-time,late,on-time,late,missed,on-time,Early Career
+cust0089,48,129585.0,458.0,0.355563738,4,0,51431.0,0.174629987,retired,18,business,chicago,on-time,late,missed,late,missed,on-time,Mid Career
+cust0090,65,127856.0,361.0,1.025842526,2,0,2200.0,0.346266614,emp,14,standard,chicago,on-time,late,on-time,missed,missed,on-time,Senior
+cust0091,32,90353.0,664.0,0.682474923,3,0,20525.0,0.309912654,employed,15,platinum,los angeles,on-time,late,late,on-time,on-time,late,Early Career
+cust0092,25,18709.0,444.0,0.180457616,6,0,44437.0,0.23564693,employed,8,business,phoenix,missed,late,late,on-time,on-time,late,Young
+cust0093,31,90353.0,372.0,0.396748797,6,0,59192.0,0.184346402,retired,3,standard,houston,late,late,missed,on-time,missed,on-time,Early Career
+cust0094,40,107658.0,439.0,0.686355219,3,0,17401.0,0.360588555,employed,14,gold,houston,on-time,late,missed,on-time,on-time,late,Mid Career
+cust0095,74,35056.0,648.0,0.340092216,3,0,67236.0,0.412771201,unemployed,11,business,houston,missed,late,missed,missed,missed,on-time,Retired
+cust0096,57,90353.0,306.0,0.570309592,3,0,11251.0,0.317859052,retired,2,business,new york,on-time,late,missed,late,missed,missed,Senior
+cust0097,38,121357.0,742.0,0.69015926,5,0,8110.0,0.156553466,self-employed,13,standard,houston,on-time,on-time,missed,missed,on-time,on-time,Mid Career
+cust0098,33,152326.0,383.0,0.05,3,0,10778.0,0.194266718,unemployed,16,platinum,houston,missed,late,on-time,on-time,missed,on-time,Early Career
+cust0099,62,189197.0,639.0,0.47839246,4,1,50183.0,0.256787629,employed,18,gold,los angeles,missed,late,on-time,missed,on-time,late,Senior
+cust0100,35,54298.0,495.0,0.486241831,2,0,13355.0,0.456461974,retired,5,business,chicago,late,missed,missed,late,late,late,Early Career
+cust0101,64,106007.0,820.0,0.417585509,5,0,11061.0,0.275324934,emp,3,platinum,houston,on-time,late,missed,late,late,missed,Senior
+cust0102,70,155734.0,563.0,0.560339027,3,0,79354.0,0.253143108,self-employed,6,gold,phoenix,late,missed,missed,missed,missed,on-time,Retired
+cust0103,41,163216.0,429.0,0.631503921,1,1,45776.0,0.13265152,retired,18,student,houston,late,missed,late,late,missed,on-time,Mid Career
+cust0104,43,107658.0,679.0,0.528410189,1,0,60628.0,0.234331521,employed,16,student,new york,late,on-time,late,late,missed,missed,Mid Career
+cust0105,42,178165.0,383.0,0.425234521,2,0,45776.0,0.176706365,self-employed,15,gold,new york,missed,on-time,missed,on-time,on-time,late,Mid Career
+cust0106,62,99076.0,340.0,0.62652426,6,0,30443.0,0.199682017,retired,14,standard,new york,late,late,late,missed,missed,missed,Senior
+cust0107,58,117023.0,339.0,0.509810682,0,0,42556.0,0.311995068,employed,7,gold,houston,on-time,on-time,late,late,late,on-time,Senior
+cust0108,46,127816.0,820.0,0.453859917,0,0,94000.0,0.259883579,self-employed,18,gold,los angeles,missed,missed,late,on-time,on-time,missed,Mid Career
+cust0109,32,19748.0,354.0,0.237544123,6,0,29584.0,0.469949445,employed,7,standard,phoenix,missed,late,on-time,late,missed,late,Early Career
+cust0110,62,170026.0,523.0,0.187469043,5,0,64950.0,0.407800337,employed,17,standard,houston,missed,missed,on-time,late,on-time,on-time,Senior
+cust0111,18,43732.0,474.0,0.233754041,5,0,76774.0,0.239111606,self-employed,15,platinum,los angeles,missed,missed,on-time,late,late,late,Young
+cust0112,42,16015.0,332.0,0.555665812,5,0,8828.0,0.208318216,self-employed,19,platinum,los angeles,late,missed,late,late,late,on-time,Mid Career
+cust0113,24,153311.0,475.0,0.48418425,0,1,692.0,0.438264194,employed,18,standard,houston,missed,late,late,late,missed,on-time,Young
+cust0114,26,107658.0,725.0,0.20394318,1,0,77743.0,0.466004249,employed,9,student,houston,on-time,late,late,late,on-time,on-time,Early Career
+cust0115,41,138961.0,826.0,0.629183565,0,0,32588.0,0.1,self-employed,16,student,los angeles,on-time,on-time,missed,late,missed,late,Mid Career
+cust0116,18,121884.0,586.0,0.774861903,4,0,45776.0,0.309285762,retired,12,gold,los angeles,on-time,late,late,late,missed,late,Young
+cust0117,61,19835.0,629.0,0.380301277,3,1,55980.0,0.274812169,unemployed,12,business,los angeles,late,late,missed,missed,missed,missed,Senior
+cust0118,25,84724.0,655.0,0.151803629,5,0,22510.0,0.364912014,emp,6,gold,houston,late,late,on-time,late,on-time,late,Young
+cust0119,41,125448.0,644.0,0.358174723,1,1,82909.0,0.494266812,employed,9,gold,los angeles,on-time,late,on-time,missed,late,missed,Mid Career
+cust0120,28,134156.0,584.0,0.670892125,2,0,30509.0,0.251594298,employed,1,business,new york,late,missed,late,late,on-time,missed,Early Career
+cust0121,68,190333.0,526.0,0.609705972,2,0,45776.0,0.1,emp,3,standard,houston,missed,on-time,missed,on-time,on-time,missed,Retired
+cust0122,34,125226.0,354.0,0.315513463,3,0,35598.0,0.35790077,employed,5,student,new york,late,on-time,on-time,late,missed,on-time,Early Career
+cust0123,25,80953.0,623.0,0.804234428,1,1,71588.0,0.438996407,emp,17,gold,chicago,on-time,on-time,missed,missed,on-time,missed,Young
+cust0124,52,129692.0,522.0,0.769656013,0,0,36955.0,0.269624022,self-employed,5,business,houston,late,on-time,on-time,late,on-time,late,Senior
+cust0125,52,199402.0,427.0,0.353398787,0,1,45776.0,0.229496252,emp,16,platinum,chicago,on-time,on-time,late,on-time,missed,missed,Senior
+cust0126,50,90880.0,800.0,0.351341999,4,1,89537.0,0.256274059,employed,13,gold,los angeles,on-time,on-time,missed,late,on-time,late,Mid Career
+cust0127,22,118081.0,623.0,0.381434413,4,0,16034.0,0.385020537,emp,10,student,los angeles,late,on-time,late,missed,late,on-time,Young
+cust0128,59,115497.0,693.0,0.398533445,0,0,89537.0,0.254553906,unemployed,18,standard,phoenix,on-time,late,late,missed,missed,late,Senior
+cust0129,56,199402.0,777.0,0.690107602,2,1,96507.0,0.33287603,retired,1,gold,los angeles,late,missed,on-time,missed,missed,missed,Senior
+cust0130,58,166836.0,781.0,0.585065812,5,0,76445.0,0.302780292,self-employed,2,gold,chicago,on-time,on-time,missed,missed,late,missed,Senior
+cust0131,45,187627.0,766.0,0.675415754,2,0,20052.0,0.292462039,emp,10,business,los angeles,on-time,on-time,on-time,on-time,missed,late,Mid Career
+cust0132,24,73141.0,717.0,0.634713029,4,0,36913.0,0.370129233,employed,5,platinum,houston,late,late,missed,late,missed,on-time,Young
+cust0133,26,180983.0,427.0,0.842905414,3,0,77209.0,0.25214201,retired,13,platinum,los angeles,missed,late,missed,late,missed,late,Early Career
+cust0134,25,168772.0,388.0,0.288122891,0,1,94363.0,0.256941344,self-employed,18,standard,phoenix,missed,on-time,on-time,missed,missed,missed,Young
+cust0135,29,16252.0,441.0,0.576071706,4,0,96056.0,0.379760285,employed,15,student,los angeles,late,on-time,late,on-time,missed,late,Early Career
+cust0136,51,118333.0,346.0,0.065235749,4,0,20081.0,0.201307468,employed,6,standard,chicago,on-time,on-time,missed,missed,missed,late,Senior
+cust0137,50,192247.0,387.0,0.236608885,5,0,28730.0,0.211977981,unemployed,7,gold,chicago,missed,missed,on-time,missed,on-time,on-time,Mid Career
+cust0138,65,199294.0,505.0,0.485029323,0,0,85107.0,0.173968571,employed,18,gold,los angeles,late,late,missed,missed,on-time,on-time,Senior
+cust0139,72,138961.0,402.0,0.583641323,5,1,42556.0,0.384901091,unemployed,19,platinum,chicago,missed,on-time,on-time,late,late,on-time,Retired
+cust0140,40,129548.0,794.0,0.479636852,0,0,16693.0,0.289476303,emp,15,student,chicago,on-time,on-time,on-time,late,late,on-time,Mid Career
+cust0141,41,58088.0,567.0,0.386561516,5,0,10951.0,0.168638485,self-employed,6,business,phoenix,on-time,late,missed,on-time,missed,on-time,Mid Career
+cust0142,54,30485.0,617.0,0.422116425,2,0,76861.0,0.385380856,emp,8,student,houston,late,on-time,missed,late,missed,late,Senior
+cust0143,52,178165.0,823.0,0.773888195,3,0,19977.0,0.244445784,unemployed,12,gold,phoenix,on-time,late,on-time,missed,on-time,late,Senior
+cust0144,61,77292.0,414.0,0.423193564,3,1,60348.0,0.212832192,unemployed,0,business,new york,on-time,late,missed,on-time,on-time,on-time,Senior
+cust0145,57,107658.0,694.0,0.849848324,0,0,3494.0,0.280432144,unemployed,7,student,phoenix,on-time,missed,on-time,missed,late,on-time,Senior
+cust0146,39,41790.0,681.0,0.658803415,1,0,17913.0,0.447872361,retired,3,student,los angeles,missed,late,on-time,late,late,missed,Mid Career
+cust0147,44,31364.0,757.0,0.591507469,6,0,10942.0,0.26050378,employed,2,business,houston,late,on-time,late,missed,late,on-time,Mid Career
+cust0148,52,129692.0,826.0,0.261280618,4,1,5539.0,0.357533886,self-employed,2,gold,los angeles,missed,late,missed,late,late,late,Senior
+cust0149,18,15404.0,588.0,0.687047632,4,0,91432.0,0.372708002,emp,12,student,new york,on-time,on-time,on-time,late,on-time,on-time,Young
+cust0150,52,32955.0,302.0,0.401245884,0,0,19796.0,0.34432733,emp,7,business,houston,late,on-time,on-time,late,on-time,late,Senior
+cust0151,54,53513.0,328.0,0.261112048,5,0,95276.0,0.427107165,employed,6,gold,chicago,on-time,late,late,missed,late,missed,Senior
+cust0152,64,189197.0,524.0,0.602568723,1,1,6118.0,0.2292884,unemployed,0,business,phoenix,on-time,missed,on-time,late,on-time,late,Senior
+cust0153,31,97986.0,326.0,0.222410788,2,0,34897.0,0.195666516,unemployed,15,business,los angeles,on-time,late,missed,on-time,missed,missed,Early Career
+cust0154,20,107658.0,718.0,0.347551708,5,0,39006.0,0.193703334,unemployed,5,student,new york,on-time,missed,missed,late,late,missed,Young
+cust0155,18,116570.0,823.0,0.497976818,5,0,36342.0,0.285553158,emp,6,gold,chicago,missed,missed,missed,late,late,late,Young
+cust0156,22,119185.0,711.0,0.943684285,0,0,44454.0,0.205295334,employed,11,student,phoenix,late,missed,on-time,late,missed,missed,Young
+cust0157,43,136465.0,823.0,0.362616849,0,0,92381.0,0.314754091,employed,8,standard,chicago,on-time,late,late,late,late,missed,Mid Career
+cust0158,72,21801.0,805.0,0.408356696,4,1,95267.0,0.307698842,retired,10,standard,phoenix,on-time,on-time,late,late,missed,missed,Retired
+cust0159,31,15404.0,316.0,0.646469011,0,0,71791.0,0.40185733,self-employed,9,gold,houston,late,on-time,on-time,on-time,missed,on-time,Early Career
+cust0160,56,54081.0,566.0,0.252340862,0,0,43927.0,0.329114431,employed,0,business,chicago,on-time,late,missed,on-time,late,on-time,Senior
+cust0161,44,74494.0,319.0,0.588561276,0,0,48397.0,0.258384814,emp,17,student,chicago,on-time,late,missed,on-time,on-time,late,Mid Career
+cust0162,26,89740.0,385.0,0.741185362,4,0,96485.0,0.34108492,retired,3,student,chicago,late,missed,missed,late,on-time,late,Early Career
+cust0163,32,116570.0,402.0,0.438581023,2,0,26000.0,0.196980598,retired,4,gold,houston,missed,missed,on-time,late,late,late,Early Career
+cust0164,32,117795.0,670.0,0.705230856,2,1,14417.0,0.296185931,retired,8,gold,new york,missed,missed,on-time,missed,on-time,on-time,Early Career
+cust0165,43,97844.0,391.0,0.558289985,6,0,45776.0,0.331940123,unemployed,16,standard,phoenix,missed,late,late,missed,missed,late,Mid Career
+cust0166,59,100999.0,457.0,0.353863607,6,0,50989.0,0.31293176,self-employed,2,platinum,chicago,missed,missed,late,on-time,late,missed,Senior
+cust0167,30,21970.0,328.0,0.460439063,0,0,85107.0,0.341506509,emp,15,gold,houston,on-time,on-time,missed,missed,late,on-time,Early Career
+cust0168,68,185883.0,604.0,0.424048532,6,0,13761.0,0.235595398,emp,4,platinum,new york,on-time,late,missed,missed,on-time,late,Retired
+cust0169,49,53513.0,339.0,0.482472348,4,0,26549.0,0.41520314,retired,15,gold,phoenix,on-time,late,missed,on-time,missed,late,Mid Career
+cust0170,56,150230.0,766.0,0.53054358,2,0,5539.0,0.482216895,emp,2,business,houston,on-time,missed,on-time,on-time,late,on-time,Senior
+cust0171,66,38959.0,310.0,0.617639987,5,1,67460.0,0.139732386,self-employed,19,business,phoenix,missed,late,late,missed,late,on-time,Retired
+cust0172,69,172504.0,677.0,0.60173365,2,0,98999.0,0.1784402,self-employed,14,standard,chicago,missed,on-time,on-time,missed,on-time,late,Retired
+cust0173,49,101188.0,818.0,0.05,2,0,74403.0,0.304308301,employed,2,standard,new york,on-time,on-time,missed,on-time,on-time,late,Mid Career
+cust0174,21,47217.0,383.0,0.480538362,4,1,31316.0,0.274344902,employed,19,platinum,houston,on-time,late,on-time,missed,missed,missed,Young
+cust0175,47,72458.0,407.0,0.198115617,6,0,37445.0,0.489641241,employed,13,gold,new york,late,missed,missed,late,late,late,Mid Career
+cust0176,54,76476.0,788.0,0.44485455,5,0,69963.0,0.321978432,self-employed,15,student,chicago,on-time,missed,late,missed,missed,late,Senior
+cust0177,40,159356.0,339.0,0.475242082,4,0,68636.0,0.439254525,self-employed,16,standard,new york,late,on-time,missed,on-time,missed,late,Mid Career
+cust0178,56,165580.0,447.0,0.695229672,0,0,45776.0,0.1,self-employed,19,student,new york,late,late,late,late,on-time,on-time,Senior
+cust0179,62,108610.0,446.0,0.493976907,3,0,11061.0,0.381416948,employed,17,student,los angeles,late,late,missed,late,on-time,missed,Senior
+cust0180,32,182280.0,467.0,0.551843604,2,0,74433.0,0.228448318,retired,17,gold,new york,late,late,on-time,late,missed,missed,Early Career
+cust0181,60,127816.0,638.0,0.658611276,3,0,50183.0,0.226845743,retired,13,platinum,phoenix,on-time,missed,late,missed,on-time,late,Senior
+cust0182,46,149415.0,605.0,0.745550452,4,0,30549.0,0.275164197,emp,17,gold,houston,late,late,on-time,missed,missed,on-time,Mid Career
+cust0183,53,120616.0,469.0,0.475397215,4,0,69666.0,0.157541636,retired,14,standard,los angeles,late,missed,late,missed,on-time,missed,Senior
+cust0184,30,199943.0,429.0,0.518835888,4,0,10951.0,0.344278553,unemployed,14,student,houston,late,late,late,missed,late,missed,Early Career
+cust0185,49,178551.0,811.0,0.50200466,3,0,47721.0,0.319071497,employed,5,gold,houston,on-time,late,on-time,missed,late,late,Mid Career
+cust0186,24,68932.0,792.0,0.391480207,4,0,84521.0,0.326619225,self-employed,14,gold,chicago,on-time,on-time,missed,late,late,on-time,Young
+cust0187,68,23702.0,401.0,0.346176955,0,0,31198.0,0.388703102,retired,17,gold,chicago,late,late,missed,on-time,on-time,on-time,Retired
+cust0188,39,107658.0,826.0,0.05,4,1,7796.0,0.451478205,employed,3,standard,los angeles,missed,on-time,late,on-time,on-time,late,Mid Career
+cust0189,45,67528.0,526.0,0.284667813,1,0,64950.0,0.263628895,retired,7,platinum,chicago,on-time,on-time,on-time,late,missed,late,Mid Career
+cust0190,19,162851.0,523.0,0.144273833,6,0,44437.0,0.347735064,employed,14,gold,chicago,missed,on-time,on-time,late,on-time,late,Young
+cust0191,59,183513.0,800.0,0.751039697,3,1,49016.0,0.329298821,self-employed,2,standard,chicago,missed,on-time,late,late,late,on-time,Senior
+cust0192,62,42192.0,301.0,0.537683202,1,0,45776.0,0.337761451,employed,14,student,houston,missed,missed,late,missed,on-time,late,Senior
+cust0193,74,32019.0,475.0,0.474812205,4,0,22835.0,0.339259766,self-employed,12,business,los angeles,on-time,on-time,on-time,on-time,missed,missed,Retired
+cust0194,70,67638.0,612.0,0.356502963,0,0,34897.0,0.459050334,employed,8,standard,houston,missed,late,missed,missed,missed,missed,Retired
+cust0195,23,198401.0,820.0,0.505955853,2,1,42556.0,0.254032313,emp,1,business,phoenix,missed,missed,missed,late,on-time,late,Young
+cust0196,45,153429.0,836.0,0.330404024,5,0,45776.0,0.14742641,retired,7,gold,houston,late,on-time,missed,late,late,missed,Mid Career
+cust0197,45,141020.0,670.0,0.534803711,6,0,39259.0,0.230212623,retired,19,gold,phoenix,on-time,late,on-time,missed,late,missed,Mid Career
+cust0198,61,59238.0,847.0,0.549146797,5,1,22835.0,0.375726693,unemployed,16,standard,new york,on-time,missed,missed,on-time,on-time,on-time,Senior
+cust0199,61,88847.0,751.0,0.32772326,4,0,72809.0,0.302332951,employed,12,business,new york,missed,late,late,on-time,missed,missed,Senior
+cust0200,37,69098.0,648.0,0.323907607,6,0,85014.0,0.253240066,retired,0,gold,phoenix,late,late,missed,on-time,on-time,late,Mid Career
+cust0201,47,62295.0,383.0,0.692439871,6,0,49016.0,0.192350273,employed,1,student,phoenix,on-time,late,late,late,missed,on-time,Mid Career
+cust0202,28,164143.0,310.0,0.489428009,0,0,95376.0,0.322128612,emp,14,platinum,houston,missed,missed,missed,missed,on-time,missed,Early Career
+cust0203,72,143778.0,352.0,0.343795914,6,0,10778.0,0.364450628,employed,11,platinum,phoenix,missed,on-time,late,late,missed,late,Retired
+cust0204,45,154487.0,725.0,0.42589874,3,0,95930.0,0.330587206,employed,13,gold,los angeles,missed,late,late,missed,missed,missed,Mid Career
+cust0205,42,107658.0,836.0,0.297881183,1,0,27697.0,0.274666967,unemployed,1,business,new york,late,missed,on-time,late,late,on-time,Mid Career
+cust0206,56,166456.0,522.0,0.486563284,1,1,33772.0,0.314664128,retired,17,gold,new york,on-time,on-time,missed,late,missed,on-time,Senior
+cust0207,50,36447.0,610.0,0.666325662,1,0,42637.0,0.314084297,employed,6,business,phoenix,on-time,missed,missed,late,late,late,Mid Career
+cust0208,18,165159.0,679.0,0.494465866,3,0,3081.0,0.318969693,self-employed,5,student,chicago,missed,missed,on-time,on-time,late,on-time,Young
+cust0209,74,107658.0,709.0,0.972726689,5,0,45776.0,0.181569505,emp,13,business,chicago,on-time,on-time,missed,missed,missed,on-time,Retired
+cust0210,44,40934.0,566.0,0.584271914,0,0,8828.0,0.319732635,employed,7,gold,phoenix,on-time,on-time,on-time,missed,missed,missed,Mid Career
+cust0211,74,58088.0,701.0,0.54599089,6,0,1217.0,0.255940353,emp,1,student,los angeles,late,on-time,missed,missed,on-time,on-time,Retired
+cust0212,69,149415.0,618.0,0.318339574,3,0,83604.0,0.404061861,retired,16,standard,chicago,late,late,missed,on-time,on-time,missed,Retired
+cust0213,30,84836.0,776.0,0.452293311,1,0,82909.0,0.313291864,self-employed,4,platinum,phoenix,late,on-time,late,on-time,missed,on-time,Early Career
+cust0214,58,97986.0,792.0,0.344197231,4,0,13761.0,0.383547922,unemployed,13,gold,los angeles,missed,late,on-time,on-time,late,missed,Senior
+cust0215,20,166836.0,600.0,0.066870954,2,0,47695.0,0.269821861,unemployed,19,gold,los angeles,on-time,missed,late,on-time,on-time,on-time,Young
+cust0216,56,191517.0,781.0,0.694852444,6,0,11564.0,0.273428616,self-employed,2,gold,houston,late,on-time,on-time,on-time,late,missed,Senior
+cust0217,23,38289.0,682.0,0.397709889,3,0,43870.0,0.449425125,emp,4,student,los angeles,on-time,missed,on-time,missed,missed,missed,Young
+cust0218,25,115497.0,617.0,0.347919985,3,0,92149.0,0.343633519,retired,15,standard,chicago,on-time,late,late,on-time,missed,missed,Young
+cust0219,44,72108.0,339.0,0.542114007,0,0,23748.0,0.228548547,employed,17,business,chicago,on-time,on-time,late,missed,on-time,missed,Mid Career
+cust0220,26,54298.0,836.0,0.60249991,0,0,15424.0,0.389697444,self-employed,16,standard,phoenix,on-time,missed,late,missed,missed,missed,Early Career
+cust0221,54,187312.0,825.0,0.435845033,3,0,21613.0,0.246669527,employed,10,student,phoenix,late,missed,on-time,late,missed,late,Senior
+cust0222,50,146456.0,768.0,0.499479666,1,1,41743.0,0.322569814,emp,16,gold,los angeles,late,late,missed,missed,on-time,late,Mid Career
+cust0223,68,52131.0,565.0,0.649237481,2,0,24851.0,0.483667463,unemployed,15,platinum,new york,missed,on-time,late,on-time,late,late,Retired
+cust0224,59,88963.0,572.0,0.427961281,6,0,41958.0,0.156871761,self-employed,1,gold,houston,on-time,missed,on-time,late,missed,on-time,Senior
+cust0225,61,107658.0,535.0,0.560466748,0,0,98062.0,0.282421808,unemployed,3,business,new york,late,on-time,on-time,late,late,missed,Senior
+cust0226,41,180983.0,776.0,0.168151076,6,0,14756.0,0.340827164,emp,6,platinum,los angeles,missed,on-time,on-time,late,late,late,Mid Career
+cust0227,32,20569.0,823.0,0.2517362,1,0,11061.0,0.376469833,unemployed,1,gold,los angeles,late,late,missed,missed,on-time,missed,Early Career
+cust0228,71,150683.0,820.0,0.621107956,6,0,11308.0,0.175876609,self-employed,5,platinum,new york,missed,missed,missed,on-time,missed,late,Retired
+cust0229,49,107658.0,753.0,0.241288272,4,0,62010.0,0.146420973,emp,16,standard,houston,late,late,on-time,late,missed,missed,Mid Career
+cust0230,49,191615.0,659.0,0.546827509,0,1,73327.0,0.409074935,employed,6,student,new york,missed,missed,on-time,late,missed,on-time,Mid Career
+cust0231,41,165580.0,629.0,0.470600244,1,0,96167.0,0.227958514,self-employed,4,gold,phoenix,late,on-time,missed,late,late,on-time,Mid Career
+cust0232,58,70284.0,696.0,0.427106547,1,1,2882.0,0.223771749,employed,4,business,chicago,on-time,on-time,late,late,on-time,late,Senior
+cust0233,69,127816.0,781.0,0.334307446,2,0,32588.0,0.455024967,retired,19,standard,phoenix,late,on-time,late,late,missed,missed,Retired
+cust0234,66,85390.0,617.0,0.681868004,2,0,11061.0,0.306970231,self-employed,15,gold,chicago,late,on-time,on-time,missed,missed,missed,Retired
+cust0235,66,74101.0,561.0,0.845978231,4,0,42715.0,0.307623823,emp,18,standard,los angeles,missed,late,missed,missed,missed,missed,Retired
+cust0236,69,127816.0,345.0,0.560038433,1,0,2926.0,0.282020055,retired,8,business,houston,late,late,on-time,missed,late,missed,Retired
+cust0237,29,178273.0,363.0,0.564498143,5,0,98999.0,0.177601793,self-employed,4,gold,new york,on-time,missed,missed,on-time,missed,missed,Early Career
+cust0238,56,61540.0,731.0,0.363533874,1,1,75777.0,0.367569695,employed,7,business,houston,on-time,missed,on-time,missed,on-time,on-time,Senior
+cust0239,19,170576.0,729.0,0.260780554,2,0,29561.0,0.340945052,employed,8,platinum,new york,on-time,late,on-time,missed,missed,late,Young
+cust0240,20,191615.0,332.0,0.492052219,5,0,44439.0,0.316869133,employed,4,business,phoenix,on-time,on-time,missed,on-time,late,on-time,Young
+cust0241,66,138961.0,563.0,0.30525007,0,0,33772.0,0.288367696,unemployed,9,platinum,phoenix,on-time,late,missed,late,missed,missed,Retired
+cust0242,54,114657.0,522.0,0.145477974,0,0,31481.0,0.270768035,retired,1,gold,new york,late,missed,late,on-time,missed,late,Senior
+cust0243,66,76813.0,749.0,0.660689162,6,0,29584.0,0.391248339,emp,8,platinum,houston,on-time,on-time,late,late,on-time,late,Retired
+cust0244,73,48307.0,319.0,0.670433358,3,0,45776.0,0.285870694,emp,10,gold,new york,late,on-time,late,late,missed,late,Retired
+cust0245,34,193677.0,380.0,0.328232245,2,0,83604.0,0.293593896,unemployed,3,gold,los angeles,late,on-time,missed,on-time,missed,missed,Early Career
+cust0246,66,186334.0,521.0,0.548792864,3,0,20052.0,0.352989315,employed,1,student,phoenix,missed,late,missed,missed,on-time,late,Retired
+cust0247,19,74163.0,623.0,0.700390454,5,0,15424.0,0.320796093,employed,5,gold,los angeles,missed,late,missed,late,late,on-time,Young
+cust0248,19,102235.0,412.0,0.541005337,2,1,26649.0,0.464227606,self-employed,13,platinum,phoenix,on-time,late,on-time,on-time,on-time,late,Young
+cust0249,45,27763.0,655.0,0.261369071,4,0,52425.0,0.123863322,employed,0,student,phoenix,on-time,on-time,late,late,missed,late,Mid Career
+cust0250,71,39285.0,818.0,0.453421317,1,0,99620.0,0.329990744,retired,17,student,chicago,missed,on-time,missed,missed,on-time,on-time,Retired
+cust0251,40,66991.0,337.0,0.765361884,4,0,23431.0,0.229439422,employed,6,gold,los angeles,missed,missed,on-time,late,late,missed,Mid Career
+cust0252,54,185883.0,663.0,0.549405329,5,1,95074.0,0.205791347,employed,0,business,los angeles,missed,on-time,missed,late,on-time,late,Senior
+cust0253,49,119185.0,635.0,0.607826421,2,0,31674.0,0.254293579,self-employed,0,business,chicago,missed,missed,late,missed,late,on-time,Mid Career
+cust0254,50,98042.0,847.0,0.568325844,5,1,90739.0,0.305467941,employed,0,student,houston,on-time,missed,late,missed,missed,on-time,Mid Career
+cust0255,18,116042.0,544.0,0.328897728,1,0,30509.0,0.309906908,unemployed,3,gold,los angeles,missed,late,on-time,on-time,missed,missed,Young
+cust0256,36,95219.0,535.0,0.375830956,0,0,41594.0,0.148269378,self-employed,3,business,new york,on-time,missed,missed,on-time,on-time,late,Mid Career
+cust0257,19,155734.0,524.0,0.567773031,0,0,3142.0,0.245891617,unemployed,17,gold,chicago,on-time,on-time,on-time,on-time,late,missed,Young
+cust0258,70,116042.0,608.0,0.663374356,5,1,63443.0,0.328122155,self-employed,10,gold,los angeles,late,on-time,missed,late,missed,on-time,Retired
+cust0259,61,109456.0,354.0,0.71998099,3,0,8526.0,0.212306955,employed,0,student,houston,late,missed,on-time,missed,on-time,missed,Senior
+cust0260,43,70284.0,405.0,0.328378891,2,0,10778.0,0.18852161,unemployed,9,student,los angeles,late,missed,missed,on-time,missed,on-time,Mid Career
+cust0261,49,61540.0,777.0,0.586624107,2,0,15171.0,0.1,unemployed,8,standard,phoenix,on-time,missed,late,on-time,on-time,late,Mid Career
+cust0262,23,93752.0,350.0,0.737408822,0,0,11942.0,0.233680655,unemployed,3,business,new york,on-time,missed,on-time,late,missed,late,Young
+cust0263,49,42350.0,341.0,0.302583646,6,0,83022.0,0.18503708,self-employed,5,business,chicago,late,missed,missed,late,missed,missed,Mid Career
+cust0264,72,97750.0,414.0,0.797349427,4,0,72332.0,0.201606712,emp,15,business,phoenix,late,missed,late,missed,on-time,missed,Retired
+cust0265,21,142016.0,445.0,0.827788165,6,1,65548.0,0.27281797,employed,1,platinum,houston,late,on-time,missed,late,late,on-time,Young
+cust0266,72,16062.0,584.0,1.025017268,1,0,92285.0,0.240017112,unemployed,17,gold,phoenix,missed,late,missed,missed,on-time,late,Retired
+cust0267,28,75692.0,534.0,0.546186688,4,0,48397.0,0.183376211,retired,9,student,phoenix,missed,missed,late,late,missed,late,Early Career
+cust0268,73,158087.0,669.0,0.547284935,4,0,68998.0,0.1,emp,16,business,houston,late,late,missed,on-time,missed,late,Retired
+cust0269,34,53765.0,736.0,0.665398878,5,0,52413.0,0.330231131,retired,12,standard,phoenix,missed,missed,on-time,on-time,missed,late,Early Career
+cust0270,55,198062.0,766.0,0.659560535,0,0,50989.0,0.375282721,employed,17,business,chicago,missed,missed,on-time,missed,late,late,Senior
+cust0271,41,38049.0,648.0,0.725273372,6,0,44016.0,0.260325502,employed,12,gold,los angeles,late,missed,late,on-time,missed,missed,Mid Career
+cust0272,22,166222.0,762.0,0.656806636,6,0,29416.0,0.27342243,unemployed,16,gold,phoenix,late,missed,missed,late,late,late,Young
+cust0273,69,107658.0,423.0,0.478787618,0,1,45776.0,0.300281052,unemployed,4,student,chicago,missed,late,missed,late,missed,missed,Retired
+cust0274,51,193031.0,670.0,0.744399424,6,1,80150.0,0.457878358,self-employed,10,platinum,los angeles,on-time,on-time,missed,missed,late,missed,Senior
+cust0275,23,189358.0,823.0,0.28574917,0,0,2687.0,0.143229221,emp,6,student,los angeles,late,on-time,on-time,late,late,late,Young
+cust0276,39,101188.0,694.0,0.501170467,5,1,23685.0,0.258551027,emp,9,business,phoenix,late,late,on-time,late,on-time,missed,Mid Career
+cust0277,28,107658.0,421.0,0.812747123,3,0,77719.0,0.127802704,unemployed,16,standard,chicago,on-time,missed,missed,late,missed,on-time,Early Career
+cust0278,65,54749.0,407.0,0.2499507,4,0,44439.0,0.336231846,employed,14,student,phoenix,missed,missed,on-time,on-time,on-time,late,Senior
+cust0279,33,107658.0,418.0,0.364504869,5,0,37905.0,0.285604161,unemployed,17,platinum,houston,missed,on-time,late,missed,missed,on-time,Early Career
+cust0280,50,65990.0,622.0,0.634349458,2,0,99005.0,0.320299211,employed,18,student,los angeles,missed,missed,missed,missed,late,missed,Mid Career
+cust0281,26,42350.0,825.0,0.578782395,1,0,46813.0,0.315312256,employed,1,gold,phoenix,late,late,late,missed,missed,late,Early Career
+cust0282,23,42350.0,823.0,0.324994918,3,1,45776.0,0.399070825,unemployed,3,business,los angeles,on-time,missed,missed,late,late,missed,Young
+cust0283,33,116570.0,452.0,0.416761199,2,0,50989.0,0.353813296,employed,2,business,chicago,missed,on-time,missed,on-time,late,missed,Early Career
+cust0284,46,159572.0,724.0,0.263843587,4,1,74433.0,0.383050796,emp,6,business,new york,on-time,on-time,on-time,on-time,late,missed,Mid Career
+cust0285,20,116570.0,739.0,0.696097,6,0,52331.0,0.193446531,retired,17,business,phoenix,late,late,on-time,late,late,missed,Young
+cust0286,37,190333.0,700.0,0.448823728,0,0,41958.0,0.419317086,employed,9,business,phoenix,late,missed,on-time,on-time,late,on-time,Mid Career
+cust0287,53,32955.0,482.0,0.858431182,4,1,45089.0,0.227763726,employed,6,business,los angeles,missed,missed,late,late,late,missed,Senior
+cust0288,36,141131.0,385.0,0.516220049,5,0,63375.0,0.233513046,employed,7,standard,chicago,on-time,missed,late,on-time,on-time,on-time,Mid Career
+cust0289,43,68682.0,579.0,0.456051939,1,0,86965.0,0.327084258,retired,5,platinum,houston,missed,on-time,late,late,on-time,missed,Mid Career
+cust0290,20,16062.0,658.0,0.436635648,5,0,67673.0,0.330191826,self-employed,0,business,chicago,late,on-time,on-time,missed,late,on-time,Young
+cust0291,36,107658.0,836.0,0.451160033,3,0,70406.0,0.19281432,employed,3,platinum,phoenix,late,late,late,late,late,late,Mid Career
+cust0292,37,155734.0,315.0,0.522164219,3,0,84521.0,0.282672071,retired,13,business,houston,missed,late,missed,on-time,missed,missed,Mid Career
+cust0293,49,38061.0,316.0,1.002481515,1,0,95267.0,0.448823532,employed,16,student,chicago,late,late,late,late,missed,missed,Mid Career
+cust0294,24,107658.0,436.0,0.432228066,2,0,45595.0,0.153166344,employed,19,business,new york,late,late,on-time,missed,on-time,missed,Young
+cust0295,69,43251.0,515.0,0.438729308,2,1,52331.0,0.448521924,emp,17,gold,los angeles,missed,missed,on-time,late,late,on-time,Retired
+cust0296,58,90353.0,658.0,0.513118769,3,0,82714.0,0.275830155,employed,10,standard,chicago,missed,missed,late,missed,late,missed,Senior
+cust0297,50,81234.0,310.0,0.718054901,3,0,79552.0,0.1,self-employed,13,student,chicago,on-time,on-time,on-time,on-time,missed,on-time,Mid Career
+cust0298,57,19835.0,793.0,0.215803088,6,0,41653.0,0.163326827,unemployed,8,student,new york,late,on-time,late,on-time,missed,missed,Senior
+cust0299,56,107658.0,673.0,0.591018547,0,1,89660.0,0.203652246,retired,14,gold,phoenix,late,missed,on-time,late,missed,on-time,Senior
+cust0300,35,107658.0,321.0,0.336514965,6,0,62342.0,0.23760707,employed,11,business,los angeles,missed,late,late,late,missed,on-time,Early Career
+cust0301,57,159188.0,415.0,0.610654538,6,0,52259.0,0.289528674,employed,9,standard,chicago,missed,late,late,missed,on-time,late,Senior
+cust0302,18,70479.0,834.0,0.401248012,2,0,82789.0,0.1,self-employed,18,student,houston,missed,late,late,late,missed,late,Young
+cust0303,28,119573.0,700.0,0.05,1,0,52217.0,0.318680439,emp,18,standard,chicago,missed,late,late,missed,on-time,missed,Early Career
+cust0304,45,81234.0,584.0,0.573915521,2,0,9859.0,0.194490949,employed,5,student,los angeles,late,late,missed,missed,missed,late,Mid Career
+cust0305,74,149415.0,591.0,0.572228954,0,0,52217.0,0.439052257,employed,19,business,chicago,late,missed,on-time,on-time,on-time,late,Retired
+cust0306,42,136465.0,595.0,0.384183938,5,0,75316.0,0.272982328,emp,5,student,new york,late,late,late,on-time,missed,on-time,Mid Career
+cust0307,67,53494.0,591.0,0.372331228,3,0,12176.0,0.394284617,self-employed,7,student,chicago,on-time,on-time,late,missed,late,on-time,Retired
+cust0308,40,107658.0,307.0,0.237725455,3,0,71588.0,0.411034898,retired,0,platinum,chicago,missed,late,on-time,missed,missed,missed,Mid Career
+cust0309,48,70479.0,385.0,0.654619988,0,1,99005.0,0.408327324,retired,16,business,houston,missed,late,on-time,late,late,on-time,Mid Career
+cust0310,47,90697.0,682.0,0.676443156,6,1,46720.0,0.243359326,employed,16,gold,new york,late,missed,missed,late,on-time,late,Mid Career
+cust0311,59,19835.0,374.0,0.324189823,1,0,82909.0,0.242079984,emp,14,gold,new york,late,late,on-time,missed,late,on-time,Senior
+cust0312,52,176426.0,320.0,0.392013108,3,1,31674.0,0.27750267,employed,6,business,chicago,missed,late,missed,missed,late,missed,Senior
+cust0313,24,194208.0,321.0,0.487342176,4,0,62253.0,0.363623738,unemployed,18,gold,houston,missed,on-time,on-time,on-time,late,late,Young
+cust0314,33,181267.0,494.0,0.954173056,6,0,15938.0,0.248930473,retired,2,business,chicago,on-time,missed,late,on-time,late,on-time,Early Career
+cust0315,43,77292.0,316.0,0.60902435,3,0,612.0,0.288073753,employed,10,gold,chicago,late,late,missed,missed,late,late,Mid Career
+cust0316,65,32019.0,419.0,0.311316897,4,0,13355.0,0.327359382,unemployed,19,platinum,los angeles,late,on-time,late,on-time,on-time,on-time,Senior
+cust0317,74,102235.0,557.0,0.560756062,0,0,10778.0,0.209510807,employed,18,gold,los angeles,on-time,on-time,late,missed,missed,on-time,Retired
+cust0318,69,120891.0,749.0,0.224661692,0,1,66118.0,0.203189171,self-employed,8,student,houston,on-time,late,on-time,on-time,missed,late,Retired
+cust0319,66,33017.0,625.0,0.643598062,6,0,30443.0,0.284173612,retired,9,business,phoenix,missed,missed,missed,late,on-time,on-time,Retired
+cust0320,19,53765.0,446.0,0.835109479,3,1,86846.0,0.297417881,employed,1,standard,los angeles,late,missed,on-time,on-time,missed,on-time,Young
+cust0321,18,53513.0,391.0,0.835958337,2,0,82382.0,0.343388548,unemployed,0,standard,phoenix,missed,on-time,late,missed,missed,late,Young
+cust0322,65,184160.0,316.0,0.646978701,4,0,95303.0,0.367188657,retired,15,business,new york,late,on-time,on-time,late,late,on-time,Senior
+cust0323,29,70393.0,715.0,0.383317529,1,0,87110.0,0.190093718,emp,17,platinum,los angeles,missed,on-time,missed,missed,missed,on-time,Early Career
+cust0324,22,193352.0,471.0,0.239819649,3,0,80430.0,0.218791507,self-employed,16,gold,los angeles,on-time,on-time,on-time,on-time,missed,on-time,Young
+cust0325,54,137402.0,358.0,0.219958991,1,0,32615.0,0.202924771,unemployed,5,platinum,houston,missed,on-time,missed,late,on-time,late,Senior
+cust0326,49,18709.0,534.0,0.05,3,0,62561.0,0.44124474,emp,13,standard,phoenix,on-time,missed,on-time,missed,missed,missed,Mid Career
+cust0327,72,153311.0,696.0,0.638771153,2,0,3081.0,0.287972941,employed,14,business,los angeles,late,late,missed,on-time,missed,late,Retired
+cust0328,26,106267.0,471.0,0.479432896,2,0,43927.0,0.30161293,emp,13,business,los angeles,missed,missed,missed,late,missed,missed,Early Career
+cust0329,58,179506.0,461.0,0.681843233,6,0,32615.0,0.305777436,unemployed,2,platinum,houston,on-time,missed,late,missed,on-time,late,Senior
+cust0330,52,26174.0,556.0,0.785606297,6,0,92183.0,0.228432999,unemployed,18,platinum,houston,late,on-time,on-time,late,on-time,on-time,Senior
+cust0331,36,43251.0,644.0,0.519981109,2,0,39259.0,0.456426952,employed,11,gold,phoenix,on-time,missed,missed,on-time,missed,late,Mid Career
+cust0332,65,81234.0,326.0,0.529192322,5,0,17023.0,0.341102665,emp,1,student,new york,on-time,late,late,late,missed,on-time,Senior
+cust0333,33,85640.0,522.0,0.407135931,2,0,80150.0,0.303959053,emp,2,student,new york,missed,late,late,missed,on-time,late,Early Career
+cust0334,20,67638.0,498.0,0.430783117,0,0,27446.0,0.189474358,employed,17,gold,chicago,missed,late,on-time,on-time,on-time,missed,Young
+cust0335,37,81234.0,339.0,0.645693982,0,1,91557.0,0.183806751,emp,0,student,los angeles,on-time,on-time,late,on-time,missed,late,Mid Career
+cust0336,41,159356.0,658.0,0.465124994,5,0,44449.0,0.269109247,retired,19,standard,phoenix,missed,missed,late,missed,missed,late,Mid Career
+cust0337,71,150230.0,627.0,0.436198467,4,1,31316.0,0.230000821,employed,5,student,los angeles,on-time,late,on-time,on-time,on-time,late,Retired
+cust0338,73,120570.0,820.0,0.496336628,1,0,61186.0,0.193255565,self-employed,4,gold,phoenix,on-time,missed,late,late,on-time,missed,Retired
+cust0339,50,117795.0,591.0,0.677266039,3,1,51016.0,0.262904198,unemployed,0,student,phoenix,late,missed,missed,late,missed,late,Mid Career
+cust0340,41,62295.0,715.0,0.361467688,3,1,86488.0,0.278357197,self-employed,18,business,phoenix,late,late,on-time,missed,late,missed,Mid Career
+cust0341,69,70479.0,361.0,0.486694296,5,0,11308.0,0.314178542,retired,0,platinum,los angeles,on-time,late,late,missed,late,missed,Retired
+cust0342,28,166836.0,495.0,0.549055568,0,0,62253.0,0.249608053,retired,15,standard,houston,missed,missed,on-time,late,late,missed,Early Career
+cust0343,66,18267.0,541.0,0.732044381,6,0,45776.0,0.199239931,employed,11,business,los angeles,late,on-time,missed,late,missed,on-time,Retired
+cust0344,25,118333.0,486.0,0.452140645,3,0,72809.0,0.202707911,employed,7,business,phoenix,on-time,on-time,on-time,on-time,missed,late,Young
+cust0345,53,119573.0,465.0,0.356435323,0,0,89660.0,0.421297273,employed,15,gold,chicago,on-time,missed,on-time,on-time,on-time,late,Senior
+cust0346,55,136790.0,655.0,0.403127811,4,0,42551.0,0.174824231,employed,0,platinum,new york,on-time,on-time,on-time,late,missed,missed,Senior
+cust0347,57,117023.0,700.0,0.710611487,1,0,89537.0,0.33631823,emp,3,platinum,phoenix,on-time,late,missed,missed,missed,missed,Senior
+cust0348,37,112007.0,416.0,0.90666106,4,0,56061.0,0.351954633,retired,9,standard,chicago,late,on-time,late,on-time,late,on-time,Mid Career
+cust0349,52,99665.0,789.0,0.237248437,5,0,76567.0,0.287872452,self-employed,10,gold,houston,missed,on-time,missed,missed,on-time,on-time,Senior
+cust0350,65,38289.0,493.0,0.280939677,2,0,79013.0,0.476782906,self-employed,16,standard,phoenix,on-time,missed,late,late,on-time,late,Senior
+cust0351,42,167424.0,341.0,0.466240643,2,1,52259.0,0.350171899,self-employed,6,student,chicago,missed,on-time,late,on-time,late,missed,Mid Career
+cust0352,52,98613.0,820.0,0.522191219,2,0,2200.0,0.484290305,self-employed,11,business,phoenix,missed,late,late,late,late,missed,Senior
+cust0353,42,176426.0,736.0,0.657393913,4,0,47695.0,0.2348936,employed,6,standard,los angeles,missed,missed,late,late,on-time,missed,Mid Career
+cust0354,46,33017.0,622.0,0.321773398,3,0,86828.0,0.236605459,self-employed,11,business,chicago,on-time,missed,on-time,missed,missed,late,Mid Career
+cust0355,35,52744.0,700.0,0.287378193,1,0,24623.0,0.352753716,emp,14,gold,los angeles,missed,on-time,missed,on-time,on-time,late,Early Career
+cust0356,63,149415.0,385.0,0.527617431,2,1,4265.0,0.273853436,employed,1,student,los angeles,on-time,on-time,missed,late,missed,late,Senior
+cust0357,35,32955.0,359.0,0.448319856,5,1,77348.0,0.468566542,self-employed,13,gold,chicago,missed,on-time,missed,on-time,late,missed,Early Career
+cust0358,19,36677.0,611.0,0.6853442,5,1,11251.0,0.334170038,employed,12,student,new york,missed,on-time,late,on-time,late,on-time,Young
+cust0359,71,198062.0,538.0,0.597471961,2,0,25807.0,0.195542578,unemployed,3,student,chicago,on-time,on-time,missed,missed,on-time,missed,Retired
+cust0360,52,137402.0,617.0,0.61107587,2,0,78035.0,0.126318359,unemployed,13,business,new york,missed,on-time,on-time,missed,late,late,Senior
+cust0361,33,38524.0,311.0,0.479103731,1,0,68998.0,0.292176141,unemployed,13,gold,phoenix,on-time,missed,late,on-time,on-time,missed,Early Career
+cust0362,58,180421.0,679.0,0.971116052,2,0,53553.0,0.291087687,employed,15,gold,phoenix,late,missed,late,on-time,on-time,late,Senior
+cust0363,53,107193.0,316.0,0.332450404,1,1,86447.0,0.331376592,self-employed,6,standard,chicago,missed,missed,missed,missed,late,missed,Senior
+cust0364,50,21949.0,682.0,0.622161967,5,0,31449.0,0.421069057,retired,18,gold,phoenix,late,on-time,on-time,late,missed,late,Mid Career
+cust0365,21,34870.0,622.0,0.246062003,2,0,13761.0,0.40791133,retired,1,standard,houston,missed,on-time,late,late,on-time,late,Young
+cust0366,50,59811.0,475.0,0.285306464,4,0,23125.0,0.242109897,retired,9,platinum,los angeles,missed,on-time,late,missed,missed,on-time,Mid Career
+cust0367,31,42350.0,389.0,0.37853088,6,0,50310.0,0.17061806,employed,17,platinum,los angeles,missed,on-time,on-time,missed,late,late,Early Career
+cust0368,38,118081.0,523.0,0.825864667,4,0,74288.0,0.176587886,emp,16,platinum,new york,late,missed,late,late,on-time,missed,Mid Career
+cust0369,65,28807.0,728.0,0.552778886,5,0,24670.0,0.226319829,employed,4,gold,phoenix,late,on-time,missed,on-time,on-time,on-time,Senior
+cust0370,37,107658.0,459.0,0.381904386,1,0,62561.0,0.263326845,employed,11,gold,new york,on-time,missed,on-time,late,late,missed,Mid Career
+cust0371,73,107658.0,384.0,0.574887265,4,0,91970.0,0.330506214,unemployed,5,standard,los angeles,late,late,late,missed,missed,missed,Retired
+cust0372,25,90353.0,643.0,0.507029576,1,0,88423.0,0.21990324,unemployed,8,student,los angeles,missed,late,missed,on-time,missed,late,Young
+cust0373,24,42350.0,664.0,0.401605326,4,0,11251.0,0.328039197,retired,19,standard,phoenix,late,on-time,on-time,late,missed,late,Young
+cust0374,20,76813.0,693.0,0.220674229,4,0,85678.0,0.336204015,retired,0,platinum,houston,on-time,on-time,on-time,missed,late,late,Young
+cust0375,34,101900.0,648.0,0.787708497,1,1,48942.0,0.314334388,unemployed,14,standard,houston,missed,missed,missed,missed,on-time,missed,Early Career
+cust0376,50,107658.0,773.0,0.541963626,3,0,7468.0,0.1871377,self-employed,5,student,phoenix,missed,missed,late,on-time,missed,late,Mid Career
+cust0377,65,107658.0,781.0,0.934747675,4,0,26000.0,0.346782673,emp,18,gold,phoenix,on-time,late,on-time,late,on-time,on-time,Senior
+cust0378,29,68932.0,535.0,0.688064324,2,0,82909.0,0.508126963,emp,17,standard,new york,late,late,on-time,missed,on-time,late,Early Career
+cust0379,68,107658.0,586.0,0.610263945,6,0,27490.0,0.324589683,emp,5,platinum,phoenix,missed,missed,missed,late,on-time,late,Retired
+cust0380,39,150230.0,742.0,0.412959134,5,1,33472.0,0.1,emp,12,platinum,houston,late,late,on-time,missed,missed,late,Mid Career
+cust0381,72,100999.0,823.0,0.280930887,3,0,13355.0,0.424087957,unemployed,0,gold,phoenix,late,on-time,late,missed,late,on-time,Retired
+cust0382,39,88963.0,310.0,0.456453803,1,0,6118.0,0.229725222,employed,12,standard,new york,missed,on-time,on-time,late,late,on-time,Mid Career
+cust0383,63,120616.0,345.0,0.275141481,3,0,98999.0,0.526571269,unemployed,6,student,new york,late,late,missed,missed,late,missed,Senior
+cust0384,47,61540.0,414.0,0.630038076,0,0,37658.0,0.311636345,emp,14,gold,new york,on-time,missed,missed,late,on-time,missed,Mid Career
+cust0385,55,53756.0,611.0,0.8265305,0,0,94309.0,0.131529931,unemployed,11,standard,new york,missed,late,late,missed,on-time,missed,Senior
+cust0386,55,109297.0,806.0,0.447817547,4,0,33354.0,0.1,emp,0,business,chicago,missed,missed,on-time,late,late,on-time,Senior
+cust0387,62,107658.0,383.0,0.688898194,4,0,48942.0,0.453974076,employed,14,platinum,phoenix,late,missed,late,missed,missed,on-time,Senior
+cust0388,68,53304.0,469.0,0.362154186,2,0,31674.0,0.410590499,retired,3,student,los angeles,missed,late,on-time,late,on-time,missed,Retired
+cust0389,71,173427.0,550.0,0.439506632,6,0,3081.0,0.522601889,employed,12,student,phoenix,missed,on-time,missed,late,missed,missed,Retired
+cust0390,25,140917.0,725.0,0.337007203,5,1,16454.0,0.301092449,employed,4,student,chicago,on-time,missed,late,missed,missed,missed,Young
+cust0391,44,96317.0,685.0,0.073373393,3,0,63375.0,0.294347012,self-employed,1,platinum,new york,late,late,missed,missed,on-time,missed,Mid Career
+cust0392,44,93832.0,459.0,0.49269333,0,0,11587.0,0.261728121,unemployed,0,standard,chicago,late,on-time,late,late,late,missed,Mid Career
+cust0393,51,31896.0,834.0,0.525690348,4,0,49798.0,0.234170976,self-employed,15,gold,houston,late,missed,on-time,on-time,missed,late,Senior
+cust0394,38,107658.0,622.0,0.7131722,5,0,44454.0,0.260757045,unemployed,5,standard,houston,on-time,missed,late,on-time,missed,on-time,Mid Career
+cust0395,47,70284.0,528.0,0.659087651,3,0,30575.0,0.321746333,retired,15,gold,phoenix,on-time,late,on-time,on-time,missed,missed,Mid Career
+cust0396,50,72043.0,308.0,0.66179058,4,0,45776.0,0.215609921,employed,13,student,phoenix,on-time,on-time,on-time,missed,missed,late,Mid Career
+cust0397,45,183152.0,656.0,0.305192755,4,0,24835.0,0.133071065,retired,2,standard,los angeles,on-time,late,on-time,missed,on-time,late,Mid Career
+cust0398,64,170576.0,337.0,0.591899461,0,0,19733.0,0.315987663,emp,14,student,los angeles,late,missed,missed,late,on-time,missed,Senior
+cust0399,50,198401.0,523.0,0.816518793,0,0,52217.0,0.21338044,retired,2,business,houston,late,missed,missed,missed,late,on-time,Mid Career
+cust0400,22,86726.0,584.0,0.57597357,4,0,60278.0,0.1,retired,1,student,new york,on-time,late,on-time,late,missed,on-time,Young
+cust0401,65,180421.0,762.0,0.865718723,1,0,91557.0,0.355256739,emp,0,student,chicago,missed,missed,on-time,on-time,missed,late,Senior
+cust0402,36,107658.0,306.0,0.903793222,4,0,55345.0,0.189194096,unemployed,8,gold,los angeles,on-time,missed,missed,on-time,late,late,Mid Career
+cust0403,21,57318.0,770.0,0.446306346,5,1,3091.0,0.366178945,emp,8,business,los angeles,on-time,on-time,on-time,late,late,on-time,Young
+cust0404,52,38524.0,563.0,0.360612051,4,0,32207.0,0.363784811,employed,6,student,new york,on-time,on-time,missed,on-time,late,missed,Senior
+cust0405,66,161377.0,380.0,0.347707567,2,0,98999.0,0.328359001,retired,2,student,new york,late,on-time,on-time,on-time,missed,missed,Retired
+cust0406,34,119573.0,360.0,0.196772836,6,0,90739.0,0.549681784,emp,17,business,phoenix,missed,late,late,late,missed,late,Early Career
+cust0407,61,167617.0,638.0,0.39631942,2,0,85780.0,0.286194815,retired,10,business,chicago,missed,on-time,missed,on-time,on-time,late,Senior
+cust0408,45,107658.0,627.0,0.74153309,2,0,44303.0,0.271436043,employed,6,standard,new york,on-time,missed,on-time,late,missed,missed,Mid Career
+cust0409,47,71570.0,341.0,0.059192485,1,0,39582.0,0.368367242,self-employed,8,gold,los angeles,on-time,late,late,late,on-time,late,Mid Career
+cust0410,46,165580.0,734.0,0.29250932,1,0,1217.0,0.294455264,employed,0,business,los angeles,on-time,late,missed,on-time,missed,on-time,Mid Career
+cust0411,63,154487.0,595.0,0.474573712,4,0,89616.0,0.416049354,employed,13,business,houston,on-time,missed,missed,missed,late,missed,Senior
+cust0412,70,130359.0,835.0,0.32456296,2,0,47906.0,0.173119409,employed,19,platinum,new york,missed,on-time,late,late,late,missed,Retired
+cust0413,23,58919.0,784.0,0.394542811,1,0,45776.0,0.174782555,employed,5,business,phoenix,missed,on-time,late,missed,on-time,late,Young
+cust0414,52,109074.0,401.0,0.397534065,0,0,61210.0,0.376580949,retired,6,gold,chicago,late,missed,on-time,on-time,missed,missed,Senior
+cust0415,58,152326.0,474.0,0.448491956,4,1,5626.0,0.183518906,unemployed,9,student,phoenix,on-time,missed,late,missed,on-time,late,Senior
+cust0416,54,40934.0,694.0,0.354109061,5,0,62561.0,0.360909861,unemployed,6,student,los angeles,missed,late,late,on-time,missed,late,Senior
+cust0417,41,126888.0,793.0,0.337757357,6,0,63412.0,0.337000285,unemployed,1,student,phoenix,late,on-time,on-time,late,missed,late,Mid Career
+cust0418,46,73243.0,595.0,0.686861949,3,0,62253.0,0.230551171,retired,3,student,los angeles,late,late,late,on-time,on-time,late,Mid Career
+cust0419,66,107658.0,452.0,0.709930836,4,0,46333.0,0.336717016,employed,16,platinum,los angeles,late,late,late,late,on-time,on-time,Retired
+cust0420,63,65990.0,766.0,0.223891331,3,0,62253.0,0.176540755,unemployed,0,business,los angeles,late,late,late,on-time,on-time,missed,Senior
+cust0421,70,180983.0,711.0,0.05,2,0,73733.0,0.200010007,self-employed,9,student,los angeles,missed,missed,late,missed,on-time,missed,Retired
+cust0422,48,196415.0,415.0,0.71267497,6,0,95276.0,0.276281226,employed,18,standard,los angeles,on-time,late,late,on-time,missed,missed,Mid Career
+cust0423,52,179506.0,398.0,0.254239916,3,0,59691.0,0.307892782,employed,14,student,houston,on-time,late,missed,on-time,on-time,missed,Senior
+cust0424,50,71570.0,634.0,0.542548968,2,1,36820.0,0.269636146,employed,9,business,phoenix,missed,late,missed,on-time,late,late,Mid Career
+cust0425,69,104588.0,811.0,0.186865625,0,0,65548.0,0.343311596,unemployed,18,student,houston,missed,on-time,missed,missed,missed,late,Retired
+cust0426,38,146800.0,500.0,0.759550997,3,0,29584.0,0.338846642,employed,11,platinum,houston,late,on-time,missed,missed,late,late,Mid Career
+cust0427,49,163216.0,768.0,1.008733579,6,0,60530.0,0.452936681,emp,15,gold,new york,late,on-time,missed,late,late,missed,Mid Career
+cust0428,40,193677.0,320.0,0.536561382,4,0,36913.0,0.290471465,self-employed,8,gold,new york,missed,on-time,missed,on-time,late,missed,Mid Career
+cust0429,50,38049.0,673.0,0.48117947,2,0,62342.0,0.419456343,unemployed,14,business,new york,on-time,missed,on-time,late,late,on-time,Mid Career
+cust0430,20,129821.0,536.0,0.435572085,4,1,49798.0,0.392072551,unemployed,16,gold,chicago,missed,on-time,missed,late,late,on-time,Young
+cust0431,35,115235.0,691.0,0.656359862,6,0,95276.0,0.529397728,self-employed,13,gold,new york,missed,on-time,late,on-time,late,missed,Early Career
+cust0432,42,108610.0,467.0,0.61353735,1,0,55812.0,0.287274198,self-employed,17,standard,phoenix,on-time,late,missed,on-time,late,missed,Mid Career
+cust0433,59,31364.0,739.0,0.700699691,2,0,24851.0,0.257964128,emp,1,business,houston,on-time,late,on-time,missed,on-time,missed,Senior
+cust0434,48,184160.0,572.0,0.374416695,3,0,78289.0,0.425769422,unemployed,3,business,phoenix,late,late,late,late,missed,late,Mid Career
+cust0435,71,59238.0,401.0,0.568023541,2,0,20052.0,0.338543257,retired,17,gold,new york,missed,on-time,missed,missed,missed,on-time,Retired
+cust0436,20,68682.0,339.0,0.391506387,4,0,88778.0,0.428165922,unemployed,6,gold,chicago,late,missed,late,on-time,on-time,late,Young
+cust0437,57,28807.0,794.0,0.28845687,0,0,95136.0,0.37167988,employed,12,gold,chicago,missed,late,on-time,missed,late,missed,Senior
+cust0438,63,107658.0,799.0,0.491796916,2,0,41743.0,0.1,employed,14,platinum,houston,missed,on-time,late,on-time,late,on-time,Senior
+cust0439,41,20569.0,427.0,0.315497454,3,0,87110.0,0.337632178,employed,0,student,phoenix,late,on-time,on-time,late,on-time,on-time,Mid Career
+cust0440,67,25916.0,762.0,0.7347454,1,0,45776.0,0.33112159,employed,10,platinum,los angeles,missed,missed,late,on-time,missed,late,Retired
+cust0441,49,127566.0,328.0,0.327615924,5,0,82438.0,0.31331069,employed,9,business,phoenix,missed,missed,missed,missed,missed,missed,Mid Career
+cust0442,64,33888.0,398.0,0.572709188,0,0,1806.0,0.286775695,self-employed,4,standard,new york,missed,late,late,on-time,on-time,missed,Senior
+cust0443,39,152162.0,446.0,0.37931554,1,0,4106.0,0.140785647,employed,15,student,los angeles,on-time,late,on-time,on-time,on-time,on-time,Mid Career
+cust0444,40,170026.0,788.0,0.55541255,2,0,95376.0,0.387417692,employed,10,standard,chicago,on-time,missed,on-time,late,on-time,on-time,Mid Career
+cust0445,19,51187.0,549.0,0.395200685,4,0,65387.0,0.337376843,employed,5,business,houston,missed,late,late,on-time,missed,missed,Young
+cust0446,44,108396.0,378.0,0.248557745,6,1,85678.0,0.41019567,emp,8,business,houston,on-time,late,on-time,late,missed,on-time,Mid Career
+cust0447,59,16062.0,690.0,0.596754548,4,0,73117.0,0.146124448,employed,12,standard,chicago,missed,on-time,on-time,missed,missed,on-time,Senior
+cust0448,19,167617.0,700.0,0.452916876,3,0,52256.0,0.350713449,retired,7,standard,new york,missed,missed,late,on-time,missed,missed,Young
+cust0449,43,187627.0,584.0,0.557196988,4,0,10778.0,0.276534066,employed,13,standard,chicago,on-time,on-time,missed,missed,missed,on-time,Mid Career
+cust0450,34,115235.0,781.0,0.414231413,0,0,62010.0,0.314378801,emp,0,business,new york,missed,late,on-time,on-time,late,missed,Early Career
+cust0451,57,107658.0,528.0,0.234412697,4,0,29845.0,0.277684037,employed,16,gold,los angeles,on-time,late,on-time,on-time,on-time,missed,Senior
+cust0452,50,99076.0,332.0,0.716635719,3,0,62010.0,0.354360793,emp,4,standard,chicago,on-time,missed,missed,on-time,missed,missed,Mid Career
+cust0453,26,190333.0,462.0,0.647351551,5,1,29416.0,0.283712688,employed,1,student,new york,late,late,missed,missed,late,missed,Early Career
+cust0454,60,65612.0,588.0,0.386607805,2,0,45776.0,0.194808507,self-employed,8,business,los angeles,missed,missed,on-time,late,on-time,missed,Senior
+cust0455,71,162851.0,622.0,0.513955843,6,0,77743.0,0.308642542,employed,3,platinum,chicago,on-time,missed,late,late,missed,missed,Retired
+cust0456,65,75566.0,338.0,0.708403897,2,0,83236.0,0.278582546,self-employed,16,platinum,houston,late,missed,late,on-time,late,on-time,Senior
+cust0457,56,177993.0,739.0,0.408592333,4,0,24120.0,0.291660638,self-employed,16,student,chicago,late,late,missed,on-time,late,on-time,Senior
+cust0458,46,38049.0,758.0,0.439623099,1,0,71588.0,0.1,employed,17,gold,phoenix,late,missed,late,missed,late,on-time,Mid Career
+cust0459,59,107658.0,350.0,0.5487265,2,0,24835.0,0.368263608,retired,15,standard,chicago,missed,late,on-time,on-time,missed,late,Senior
+cust0460,72,125448.0,354.0,0.408181787,5,0,45776.0,0.268533638,unemployed,7,business,phoenix,late,late,late,missed,late,missed,Retired
+cust0461,43,146800.0,459.0,0.671418399,4,1,17913.0,0.165184643,employed,10,standard,los angeles,missed,missed,on-time,on-time,late,missed,Mid Career
+cust0462,52,134180.0,757.0,0.466219844,6,0,16693.0,0.392256352,employed,17,business,chicago,late,missed,late,missed,missed,on-time,Senior
+cust0463,67,64922.0,658.0,0.343192825,3,0,67397.0,0.363636573,retired,9,platinum,los angeles,on-time,late,late,missed,on-time,on-time,Retired
+cust0464,42,107658.0,837.0,0.621727766,5,0,45776.0,0.26726798,retired,12,standard,los angeles,on-time,missed,on-time,late,late,late,Mid Career
+cust0465,41,24435.0,766.0,0.27157387,4,0,60530.0,0.184783062,employed,16,student,new york,missed,on-time,missed,missed,missed,late,Mid Career
+cust0466,30,107658.0,664.0,0.902975712,5,0,45776.0,0.317803073,unemployed,17,gold,los angeles,missed,missed,missed,late,on-time,on-time,Early Career
+cust0467,24,193998.0,700.0,0.816499273,2,0,18952.0,0.312310608,retired,9,student,los angeles,missed,on-time,on-time,late,late,missed,Young
+cust0468,74,164143.0,580.0,0.602699095,6,0,44449.0,0.392433428,self-employed,15,gold,chicago,missed,late,on-time,missed,missed,late,Retired
+cust0469,53,191615.0,796.0,0.585866204,3,0,42551.0,0.255626449,unemployed,19,standard,chicago,late,late,on-time,late,late,late,Senior
+cust0470,62,75566.0,845.0,0.576488284,4,0,82482.0,0.419492213,employed,4,standard,houston,late,late,late,missed,late,missed,Senior
+cust0471,37,167424.0,813.0,0.402181043,0,0,33772.0,0.2459747,unemployed,12,gold,new york,on-time,on-time,missed,late,missed,on-time,Mid Career
+cust0472,18,53513.0,617.0,0.559461929,3,0,43870.0,0.165416822,employed,17,platinum,los angeles,late,on-time,on-time,missed,on-time,late,Young
+cust0473,25,155932.0,754.0,0.315373478,0,0,23685.0,0.186771724,unemployed,16,business,new york,on-time,late,late,missed,on-time,missed,Young
+cust0474,63,107658.0,475.0,0.600763684,5,0,75316.0,0.293758846,self-employed,8,student,phoenix,missed,on-time,missed,late,late,late,Senior
+cust0475,33,38049.0,508.0,0.673569389,1,0,60348.0,0.293448549,employed,13,student,los angeles,on-time,late,on-time,late,late,late,Early Career
+cust0476,31,169786.0,822.0,0.42438278,3,0,48437.0,0.332786114,emp,16,student,new york,late,missed,late,on-time,on-time,missed,Early Career
+cust0477,29,52744.0,796.0,0.380979641,5,0,44439.0,0.290962597,employed,3,standard,houston,on-time,late,missed,missed,missed,late,Early Career
+cust0478,68,24435.0,307.0,0.257504595,0,1,20374.0,0.397731852,employed,17,student,houston,on-time,on-time,missed,late,missed,on-time,Retired
+cust0479,40,87474.0,429.0,0.791591047,2,0,26417.0,0.27389059,unemployed,19,business,los angeles,on-time,late,missed,on-time,on-time,on-time,Mid Career
+cust0480,32,86726.0,799.0,0.396867193,2,0,54622.0,0.100372374,retired,14,business,phoenix,late,on-time,on-time,missed,late,on-time,Early Career
+cust0481,45,59482.0,346.0,0.460252193,1,0,85678.0,0.287890331,employed,10,gold,houston,late,on-time,on-time,missed,on-time,late,Mid Career
+cust0482,51,59811.0,792.0,0.560031117,3,0,45776.0,0.1,emp,11,standard,houston,late,late,late,on-time,on-time,late,Senior
+cust0483,19,107658.0,766.0,0.556441529,3,0,45776.0,0.327139098,employed,8,business,phoenix,missed,on-time,late,late,missed,late,Young
+cust0484,49,147396.0,401.0,0.649312019,3,0,7468.0,0.4057193,employed,12,platinum,new york,missed,on-time,on-time,late,missed,on-time,Mid Career
+cust0485,40,116570.0,556.0,0.424134016,5,0,76567.0,0.201377551,employed,14,standard,houston,missed,on-time,late,missed,on-time,on-time,Mid Career
+cust0486,39,39285.0,567.0,0.272266412,6,0,37463.0,0.441855669,emp,14,standard,chicago,missed,missed,on-time,late,missed,late,Mid Career
+cust0487,68,43732.0,524.0,0.237266938,6,0,53553.0,0.384283124,retired,4,business,houston,on-time,late,on-time,on-time,on-time,on-time,Retired
+cust0488,42,188420.0,550.0,0.384148953,1,0,86846.0,0.420648016,unemployed,18,platinum,new york,on-time,missed,late,missed,missed,on-time,Mid Career
+cust0489,39,115497.0,665.0,0.309629905,3,0,64110.0,0.318956386,self-employed,19,gold,new york,late,missed,late,on-time,on-time,missed,Mid Career
+cust0490,39,153877.0,618.0,0.439276659,5,0,36029.0,0.200723482,employed,13,business,los angeles,on-time,missed,on-time,on-time,late,on-time,Mid Career
+cust0491,66,54954.0,825.0,0.761515762,2,0,77743.0,0.378081543,self-employed,16,platinum,chicago,late,missed,on-time,on-time,missed,on-time,Retired
+cust0492,69,177993.0,818.0,0.424544359,0,0,32630.0,0.237539909,employed,17,standard,new york,missed,missed,missed,late,late,on-time,Retired
+cust0493,59,191517.0,813.0,0.424469828,5,0,23047.0,0.311788451,unemployed,2,platinum,phoenix,missed,missed,late,late,on-time,late,Senior
+cust0494,23,168487.0,306.0,0.496720245,6,0,5539.0,0.282864901,unemployed,1,standard,chicago,missed,on-time,on-time,on-time,missed,on-time,Young
+cust0495,32,107658.0,811.0,0.418875002,6,1,16699.0,0.412469586,employed,0,business,chicago,late,late,late,on-time,on-time,on-time,Early Career
+cust0496,71,48307.0,688.0,0.486521753,2,0,12707.0,0.373032701,retired,9,business,phoenix,on-time,on-time,missed,on-time,on-time,late,Retired
+cust0497,60,86180.0,836.0,0.608173844,2,1,45595.0,0.29194342,unemployed,18,student,houston,on-time,on-time,late,late,late,missed,Senior
+cust0498,54,152326.0,847.0,0.676950211,0,0,44449.0,0.104839281,employed,16,student,phoenix,on-time,late,late,on-time,late,missed,Senior
+cust0499,50,105852.0,343.0,0.70064264,2,1,11155.0,0.236477253,employed,11,student,phoenix,late,on-time,late,missed,on-time,missed,Mid Career
+cust0500,25,40945.0,442.0,0.911370444,1,0,36968.0,0.370422229,self-employed,0,business,houston,missed,late,late,on-time,late,on-time,Young
