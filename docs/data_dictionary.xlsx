@@ -1,0 +1,20 @@
+, Column Name          , Description                            , Data Type , Example  , Business Meaning                   
+,,,,,
+1, Customer_ID          , Unique identifier for each customer    , Integer   ,1024, Helps track customers              
+2, Age                  , Age of the customer                    , Integer   ,35, Used for demographic analysis      
+3, Income               , Annual income of customer              , Float     ,50000, Indicates financial capacity       
+4, Credit_Score         , Customer credit rating                 , Integer   ,720, Higher score means lower risk      
+5, Credit_Utilization   , Percentage of credit used              , Float     ,45.5, High utilization may indicate risk 
+6, Missed_Payments      , Number of missed payments              , Integer   ,2, Indicates payment behavior         
+7, Loan_Balance         , Current outstanding loan               , Float     ,12000, Total loan amount owed             
+8, Debt_to_Income_Ratio , Debt relative to income                , Float     ,0.35, Shows debt burden                  
+9, Employment_Status    , Customer employment type               , Category  , Employed , Financial stability indicator      
+10, Credit_Card_Type     , Type of credit card                    , Category  , Gold     , Customer segmentation              
+11, Location             , Customer region                        , Category  , Delhi    , Geographic analysis                
+12, Month_1              , Payment status month 1                 , Category  , Late     , Payment behavior tracking          
+13, Month_2              , Payment status month 2                 , Category  , On-time  , Payment behavior tracking          
+14, Month_3              , Payment status month 3                 , Category  , Missed   , Payment behavior tracking          
+15, Month_4              , Payment status month 4                 , Category  , Late     , Payment behavior tracking          
+16, Month_5              , Payment status month 5                 , Category  , On-time  , Payment behavior tracking          
+17, Month_6              , Payment status month 6                 , Category  , Missed   , Payment behavior tracking          
+18, Delinquent_Account   , Target variable indicating delinquency , Binary    ,1, Predicts if account is delinquent  
